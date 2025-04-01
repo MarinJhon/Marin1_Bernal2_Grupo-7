@@ -1,0 +1,21 @@
+[
+    {
+      "nombre": "Laptop",
+      "marca": "Dell",
+      "precio": 1200.50,
+      "disponible": true,
+      "modelo": "Inspiron 15",
+      "procesador": "Intel Core i7",
+      "almacenamiento": "512GB SSD",
+      "ram": "16GB",
+      "color": "Negro",
+      "peso": "1.5kg",
+      "pantalla": "15.6\"",
+      "resolucion": "1920x1080",
+      "puertos": ["USB-C", "HDMI", "USB 3.0"],
+      "bateria": "5 horas",
+      "sistema_operativo": "Windows 10",
+      "categoria": "Computadoras"
+    }
+  ]
+  
